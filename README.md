@@ -6,9 +6,15 @@ A collection of LeetCode solutions in Python covering DSA, problem-solving patte
 ## Array
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/santoshcodes1-max/leetcode-python-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/santoshcodes1-max/leetcode-python-solutions/tree/master/0416-partition-equal-subset-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/santoshcodes1-max/leetcode-python-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/santoshcodes1-max/leetcode-python-solutions/tree/master/0416-partition-equal-subset-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/santoshcodes1-max/leetcode-python-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
