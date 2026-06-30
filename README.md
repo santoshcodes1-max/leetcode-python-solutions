@@ -27,6 +27,7 @@ A collection of LeetCode solutions in Python covering DSA, problem-solving patte
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/santoshcodes1-max/leetcode-python-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/santoshcodes1-max/leetcode-python-solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/santoshcodes1-max/leetcode-python-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/santoshcodes1-max/leetcode-python-solutions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -69,9 +70,14 @@ A collection of LeetCode solutions in Python covering DSA, problem-solving patte
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/santoshcodes1-max/leetcode-python-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/santoshcodes1-max/leetcode-python-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0494-target-sum](https://github.com/santoshcodes1-max/leetcode-python-solutions/tree/main/0494-target-sum/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/santoshcodes1-max/leetcode-python-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 <!---LeetCode Topics End-->
