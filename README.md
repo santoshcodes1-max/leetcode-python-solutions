@@ -8,6 +8,7 @@ A collection of LeetCode solutions in Python covering DSA, problem-solving patte
 | ------- | ------- |
 | [0322-coin-change](https://github.com/santoshcodes1-max/leetcode-python-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/santoshcodes1-max/leetcode-python-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/santoshcodes1-max/leetcode-python-solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/santoshcodes1-max/leetcode-python-solutions/tree/main/0494-target-sum/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/santoshcodes1-max/leetcode-python-solutions/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/santoshcodes1-max/leetcode-python-solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -20,6 +21,7 @@ A collection of LeetCode solutions in Python covering DSA, problem-solving patte
 | ------- | ------- |
 | [0322-coin-change](https://github.com/santoshcodes1-max/leetcode-python-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/santoshcodes1-max/leetcode-python-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/santoshcodes1-max/leetcode-python-solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/santoshcodes1-max/leetcode-python-solutions/tree/main/0494-target-sum/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/santoshcodes1-max/leetcode-python-solutions/tree/main/1049-last-stone-weight-ii/) | Medium |
 ## Breadth-First Search
@@ -72,6 +74,7 @@ A collection of LeetCode solutions in Python covering DSA, problem-solving patte
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0474-ones-and-zeroes](https://github.com/santoshcodes1-max/leetcode-python-solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/santoshcodes1-max/leetcode-python-solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/santoshcodes1-max/leetcode-python-solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## Backtracking
