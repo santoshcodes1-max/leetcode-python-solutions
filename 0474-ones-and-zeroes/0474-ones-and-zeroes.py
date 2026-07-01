@@ -1,16 +1,27 @@
 class Solution:
     def findMaxForm(self, strs: List[str], m: int, n: int) -> int:
         nlen=len(strs)
-        dp={}
+        dp=[[0]*(n+1) for _ in range(m+1)]
         for val in strs:
            mcount,ncount=val.count('0'),val.count('1');
            for i in range(m,mcount-1,-1):
             for j in range(n,ncount-1,-1):
-                cal=dp.get((i,j),0) #not take
+                cal=dp[i][j] #not take
                 if(i>=mcount and j>=ncount):
-                    cal=max(cal,dp.get((i-mcount,j-ncount),0)+1) #take
-                dp[(i,j)]=cal;
-        return dp.get((m,n),0)
+                    cal=max(cal,dp[i-mcount][j-ncount]+1) #take
+                dp[i][j]=cal;
+        return dp[m][n]
+
+        # dp={}
+        # for val in strs:
+        #    mcount,ncount=val.count('0'),val.count('1');
+        #    for i in range(m,mcount-1,-1):
+        #     for j in range(n,ncount-1,-1):
+        #         cal=dp.get((i,j),0) #not take
+        #         if(i>=mcount and j>=ncount):
+        #             cal=max(cal,dp.get((i-mcount,j-ncount),0)+1) #take
+        #         dp[(i,j)]=cal;
+        # return dp.get((m,n),0)
 
 
 
