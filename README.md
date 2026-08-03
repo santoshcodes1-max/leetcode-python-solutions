@@ -103,4 +103,8 @@ A collection of LeetCode solutions in Python covering DSA, problem-solving patte
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/santoshcodes1-max/leetcode-python-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/santoshcodes1-max/leetcode-python-solutions/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
